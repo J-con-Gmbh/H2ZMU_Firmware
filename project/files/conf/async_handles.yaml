@@ -1,0 +1,5 @@
+handles:
+    sensor_update:
+        name: Sensor data update
+        freq_ms: 1000
+        function: handle_sensor_update

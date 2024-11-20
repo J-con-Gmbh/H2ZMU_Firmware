@@ -1,0 +1,17 @@
+.idea/
+
+build
+.vscode
+
+cmake-build-debug
+cmake-build-debug-axcf
+cmake-build-debug-lokal
+project/cmake-build-debug-axcf
+project/cmake-build-debug-lokal
+cmake-custom-build
+
+external/build
+external/lib/grpc
+external/lib/libmodbus
+external/lib/grpc.zip
+external/lib/libmodbus.zip

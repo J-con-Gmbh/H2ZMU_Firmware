@@ -1,0 +1,12 @@
+[submodule "project/lib/modbus_interface"]
+	path = project/lib/modbus_interface
+	url = https://github.com/RigaEDV/modbus_interface.git
+[submodule "project/lib/uart_comm"]
+	path = project/lib/uart_comm
+	url = https://github.com/RigaEDV/uart_comm.git
+[submodule "project/lib/cpp_log"]
+	path = project/lib/cpp_log
+	url = https://github.com/RigaEDV/cpp_log.git
+[submodule "project/lib/h2zmu_utils"]
+	path = project/lib/h2zmu_utils
+	url = https://github.com/RigaEDV/h2zmu_utils.git

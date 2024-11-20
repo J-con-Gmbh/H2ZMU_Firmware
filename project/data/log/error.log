@@ -1,0 +1,165 @@
+[ 2023-10-14 10:36:37.349 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:36:47.063 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:36:47.063 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:36:47.063 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:37:29.667 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:37:29.667 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:37:29.667 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:38:12.125 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:38:12.125 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:38:12.126 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:38:12.126 ] - [ FAIL! ] - [  error ] - thrown at bool DatabaseService::iExecuteSql(const string&) | interface 0 | message: !SQL: "INSERT INTO sensors ( id,
+	                      type,
+	                      type_order,
+	                      serialnumber,
+	                      name,
+	                      manufacturer,
+	                      uppermeasurelimit_manufacturer,
+	                      lowermeasurelimit_manufacturer,
+	                      fk_hardwareprotocol,
+	                      hardwareprotocol_address,
+	...
+[ 2023-10-14 10:38:12.126 ] - [ FAIL! ] - [  error ] - thrown at static void Migration::migrate(const string&) | interface 0 | message: Couldn't migrate file ( /home/jriessner/Arbeit/Projekte/H2Well/Code/Cpp/h2zmu_v1_pfc200/files/sql/3_initial_vessel_migration_new.sql )!
+[ 2023-10-14 11:10:44.553 ] - [ FAIL! ] - [  error ] - thrown at std::string DatabaseService::iExecuteSqlReturn(const string&) | interface 0 | message: !SQL: "SELECT max(version) FROM migrations;" Ausführung fehlgeschlagen
+[ 2023-10-14 11:10:44.693 ] - [ FAIL! ] - [  error ] - thrown at static bool InitialSetupDataCache::validate() | interface 0 | message: upper measure limit invalid 10000 > x > 0 ( -50.000000 ); 
+[ 2023-11-05 20:22:54.882 ] - [ FAIL! ] - [  error ] - thrown at std::string DatabaseService::iExecuteSqlReturn(const string&) | interface 0 | message: !SQL: "SELECT max(version) FROM migrations;" Ausführung fehlgeschlagen
+[ 2023-11-05 20:44:30.605 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.608 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.610 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.612 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.614 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.615 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.616 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.618 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.619 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:44:30.620 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.060 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.061 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.062 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.063 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.065 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.066 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.067 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.068 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.070 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
+[ 2023-11-05 20:46:34.071 ] - [  WARN ] - [  error ] - thrown at void testsuite(int, char**) | interface 0 | message: stack trace:
+	    // TODO Funktion reparieren -> wenn in std::async aufgerufen -> Speicherfehler
