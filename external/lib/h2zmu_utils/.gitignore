@@ -1,0 +1,8 @@
+.idea
+
+liblog
+
+cmake-build-debug
+build
+
+test_edit.conf
